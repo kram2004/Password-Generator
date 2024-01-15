@@ -1,0 +1,1 @@
+ a password generator that can generate strong and secure passwords. You can add features such as specifying password length and including special characters.
